@@ -1,0 +1,11 @@
+https://rstudio.github.io/shinydashboard/examples.html
+
+https://rstudio.github.io/shinydashboard/structure.html
+
+http://shiny.rstudio.com/gallery/widget-gallery.html
+
+
+
+Íconos:
+https://glyphsearch.com/
+

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558984073101.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E24AA2A8",
+    "lastKnownWriteTime" : 1558931346,
+    "last_content_update" : 1558931346,
+    "path" : "E:/Taller Shiny/app/src/packages.R",
+    "project_path" : "src/packages.R",
+    "properties" : {
+        "cursorPosition" : "55,0",
+        "scrollLine" : "19"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

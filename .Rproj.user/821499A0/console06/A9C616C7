@@ -1,0 +1,4 @@
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ [K]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git init
+Initialized empty Git repository in /home/vburguete/app/.git/
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git remote add origin https://github.com/vburguete/taller_shiny.git
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git add -A
