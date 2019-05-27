@@ -2,3 +2,89 @@
 Initialized empty Git repository in /home/vburguete/app/.git/
 ]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git remote add origin https://github.com/vburguete/taller_shiny.git
 ]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git add -A
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git commit -m "Initial commit"
+[master (root-commit) 77b99d4] Initial commit
+ 78 files changed, 2259 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/4259E6/console06/INDEX001
+ create mode 100644 .Rproj.user/4259E6/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/4259E6/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/4259E6/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/4259E6/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/4259E6/rmd-outputs
+ create mode 100644 .Rproj.user/4259E6/saved_source_markers
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/599DD6A5
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/599DD6A5-contents
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/69AC5017
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/69AC5017-contents
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/8D0B3DE8
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/8D0B3DE8-contents
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/A46AC657
+ create mode 100644 .Rproj.user/4259E6/sources/per/t/A46AC657-contents
+ create mode 100644 .Rproj.user/4259E6/sources/prop/1B0F75C2
+ create mode 100644 .Rproj.user/4259E6/sources/prop/292B93D3
+ create mode 100644 .Rproj.user/4259E6/sources/prop/39B90412
+ create mode 100644 .Rproj.user/4259E6/sources/prop/3AF07C57
+ create mode 100644 .Rproj.user/4259E6/sources/prop/51363061
+ create mode 100644 .Rproj.user/4259E6/sources/prop/5D2A1B8B
+ create mode 100644 .Rproj.user/4259E6/sources/prop/5EC02472
+ create mode 100644 .Rproj.user/4259E6/sources/prop/6115C451
+ create mode 100644 .Rproj.user/4259E6/sources/prop/618E9C39
+ create mode 100644 .Rproj.user/4259E6/sources/prop/786009D6
+ create mode 100644 .Rproj.user/4259E6/sources/prop/8DA4CB30
+ create mode 100644 .Rproj.user/4259E6/sources/prop/A9AA3489
+ create mode 100644 .Rproj.user/4259E6/sources/prop/C148A4E
+ create mode 100644 .Rproj.user/4259E6/sources/prop/D17E0C9B
+ create mode 100644 .Rproj.user/4259E6/sources/prop/EEEFEEC5
+ create mode 100644 .Rproj.user/4259E6/sources/prop/FA40D335
+ create mode 100644 .Rproj.user/4259E6/sources/prop/FA8A6FFC
+ create mode 100644 .Rproj.user/4259E6/sources/prop/INDEX
+ create mode 100644 .Rproj.user/821499A0/console06/A9C616C7
+ create mode 100644 .Rproj.user/821499A0/console06/A9C616C7.env
+ create mode 100644 .Rproj.user/821499A0/console06/INDEX001
+ create mode 100644 .Rproj.user/821499A0/sources/s-c4fa9054/lock_file
+ create mode 100644 .Rproj.user/9357539B/sources/prop/345AA1D3
+ create mode 100644 .Rproj.user/9357539B/sources/prop/4889A0D9
+ create mode 100644 .Rproj.user/9357539B/sources/prop/4D9FBBAF
+ create mode 100644 .Rproj.user/9357539B/sources/prop/81DEF312
+ create mode 100644 .Rproj.user/9357539B/sources/prop/B401674F
+ create mode 100644 .Rproj.user/9357539B/sources/prop/B7925DB4
+ create mode 100644 .Rproj.user/9357539B/sources/prop/C1E836FA
+ create mode 100644 .Rproj.user/9357539B/sources/prop/F8996A3E
+ create mode 100644 .Rproj.user/9357539B/sources/prop/INDEX
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/318EA692
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/318EA692-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/53A232E0
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/53A232E0-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/75FCC323
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/75FCC323-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/8D699807
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/8D699807-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/B6EC40C7
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/B6EC40C7-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/E24AA2A8
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/E24AA2A8-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/EC281B62
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/EC281B62-contents
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/ECB019CE
+ create mode 100644 .Rproj.user/9357539B/sources/s-6CDED5D6/ECB019CE-contents
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 app.Rproj
+ create mode 100644 data/bd.rds
+ create mode 100644 documentation/Shiny.pptx
+ create mode 100644 documentation/links.txt
+ create mode 100644 documentation/shiny-cheatsheet.pdf
+ create mode 100644 src/app1.R
+ create mode 100644 src/app2.R
+ create mode 100644 src/app3.R
+ create mode 100644 src/app4.R
+ create mode 100644 src/app5.R
+ create mode 100644 src/app6.R
+ create mode 100644 src/app7.R
+ create mode 100644 src/packages.R
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git reset
+Unstaged changes after reset:
+M	.Rproj.user/821499A0/console06/A9C616C7
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ touch .gitignore[Kr[Ke
+]0;/home/vburguete/app]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ [K]0;vburguete@r-sntpc-desa: ~/appvburguete@r-sntpc-desa:~/app$ git add -A
