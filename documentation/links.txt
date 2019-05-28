@@ -4,8 +4,9 @@ https://rstudio.github.io/shinydashboard/structure.html
 
 http://shiny.rstudio.com/gallery/widget-gallery.html
 
-
+https://shiny.rstudio.com/articles/reactivity-overview.html
 
 Íconos:
 https://glyphsearch.com/
 
+https://www.rstudio.com/wp-content/uploads/2015/03/shiny-spanish.pdf

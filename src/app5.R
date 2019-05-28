@@ -1,5 +1,5 @@
 
-## app 4   ##
+## app 5  ##
 
 # User Interface
 
@@ -73,7 +73,7 @@ body <- dashboardBody(
             ))
     ))
 
-ui <- dashboardPage(header, sidebar, body)
+ui <- dashboardPage(header, sidebar, body,  skin = "black")
 
 # Server
 server <- function(input, output) { }
