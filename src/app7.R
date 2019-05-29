@@ -153,7 +153,7 @@ server <- function(input, output) {
                 position = position_dodge(0.9),
                 size = 5)+
       
-      labs(x = "Departamento", 
+      labs(x = "Año", 
            y = "Población", 
            colour = "",
            size = "",

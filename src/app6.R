@@ -39,7 +39,7 @@ body <- dashboardBody(
               tabBox(
                 title = "Población por género",
                 width = 8,
-                tabPanel("Visualización", 
+                tabPanel("Output", 
                          fluidRow(
                            column(12,
                            uiOutput("nota"),
