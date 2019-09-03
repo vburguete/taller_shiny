@@ -2,7 +2,7 @@
 ## Chequear versión de R 
 strsplit(version[['version.string']], ' ')[[1]][3]
 
-# Última versión disponible: "3.6.0"
+# Última versión disponible: "3.6.1"
 
 
 ## Actualizar R desde consola
